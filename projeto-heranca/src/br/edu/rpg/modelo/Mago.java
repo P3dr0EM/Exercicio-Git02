@@ -17,6 +17,6 @@ public class Mago extends Personagem {
 
     // Getters e Setters (Encapsulamento)
     public int getMana() { return mana; }
-    public int setMana(int mana) { this.mana = mana; }
+    public void setMana(int mana) { this.mana = mana; }
 
 }
