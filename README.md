@@ -3,9 +3,9 @@
 Este projeto foi desenvolvido como parte de um exercício académico sobre Programação Orientada a Objetos. O foco principal é a implementação de **herança**, **sobrescrita de métodos** e **polimorfismo**, utilizando o **GitHub Flow** para colaboração.
 
 ## 👥 Integrantes (Trio)
-* **Nome:** [TEU NOME] - **RA:** [TEU RA]
-* **Nome:** [INTEGRANTE 2] - **RA:** [RA 2]
-* **Nome:** [INTEGRANTE 3] - **RA:** [RA 3]
+* **Pedro Gabriel Evangelista Marques**  - **RA:42520893**
+* **Leonardo Ferreira Tomaz** - **RA: 42414791**
+* **Lucas Gabriel Abade Oliveira** - **RA: 42420206**
 
 ## 📝 Sobre o Tema
 Escolhemos o tema **RPG (Role Playing Game)**. O sistema modela uma superclasse `Personagem` que define comportamentos básicos (como atacar). As subclasses `Guerreiro` e `Mago` herdam estes atributos e sobrescrevem o método de ataque para refletir as suas habilidades específicas (força física vs. magia).
