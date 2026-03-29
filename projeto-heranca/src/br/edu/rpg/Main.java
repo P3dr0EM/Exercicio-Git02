@@ -1,6 +1,6 @@
 
 package br.edu.rpg;
-import br.edu.rp.modelo.*;
+import br.edu.rpg.modelo.*;
 import java.util.ArrayList;
 import java.util.List;
 
