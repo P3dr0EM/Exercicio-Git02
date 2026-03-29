@@ -1,4 +1,4 @@
-package br.edu.seuprojeto.modelo;
+package br.edu.rpg.modelo;
 
 public class Personagem {
     private String nome;
